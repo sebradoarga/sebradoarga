@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Sebastian</h1>
+<h1 align="center">Hi 👋 I'm Sebastian</h1>
 <h3 align="center">I'm a law school graduate turned full stack developer with a passion for eye-catching design.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sebradoarga" alt="sebradoarga" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
