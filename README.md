@@ -7,12 +7,4 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sebradoarga&show_icons=true&locale=en&layout=compact" alt="sebradoarga" /></p>
 
-<<<<<<< HEAD
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sebradoarga&show_icons=true&locale=en&layout=compact" alt="sebradoarga" /></p>
-
-# <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sebradoarga&show_icons=true&locale=en" alt="sebradoarga" /></p>
-
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sebradoarga&show_icons=true&locale=en" alt="sebradoarga" /></p>
-
-> > > > > > > 6f1e64ac12ef5725e8c2613d06c4cffcdb6caa12
